@@ -1,0 +1,14 @@
+{
+  "name": "harvey-specter-marketplace",
+  "owner": {
+    "name": "Keswin Suresh",
+    "email": "keswin@example.com"
+  },
+  "plugins": [
+    {
+      "name": "harvey-specter-uae",
+      "source": ".",
+      "description": "Elite legal AI for UAE business law - startup formation, healthcare licensing, employment law, and contracts"
+    }
+  ]
+}
