@@ -1,0 +1,22 @@
+{
+  "name": "harvey-specter-usa",
+  "description": "Elite legal AI for US business law - Delaware incorporation, startup formation, employment, contracts, and IP",
+  "version": "1.0.0",
+  "author": {
+    "name": "Keswin Suresh",
+    "url": "https://x.com/keswins"
+  },
+  "keywords": [
+    "legal",
+    "USA",
+    "Delaware",
+    "startup",
+    "employment",
+    "contracts",
+    "IP",
+    "trademark",
+    "harvey-specter",
+    "suits"
+  ],
+  "license": "MIT"
+}

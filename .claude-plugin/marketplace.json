@@ -9,6 +9,11 @@
       "name": "harvey-specter-uae",
       "source": "./plugins/harvey-specter-uae",
       "description": "Elite legal AI for UAE business law - startup formation, healthcare licensing, employment law, and contracts"
+    },
+    {
+      "name": "harvey-specter-usa",
+      "source": "./plugins/harvey-specter-usa",
+      "description": "Elite legal AI for US business law - Delaware incorporation, startup formation, employment, contracts, and IP"
     }
   ]
 }
